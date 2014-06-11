@@ -25,8 +25,8 @@
 #
 # Updated: 10 June 2014
 
-require '../src/WindowManagement'
-require '../src/WindowManagementConstants'
+require './WindowManagement'
+require './WindowManagementConstants'
 require './plugin'
 
 # Eventually these will be filled in from a configuration file
